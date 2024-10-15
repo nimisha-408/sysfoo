@@ -4,7 +4,7 @@
 A Devops Learning App 
 
 ## About the Application
-
+## CHANGING THE README FOR TESTING BRANCH POLICIES
 The Sysfoo application is designed as a learning tool to demonstrate various aspects of web development using Spring Boot and other associated technologies. It provides real-time system information, database connectivity status, and a basic to-do list functionality to illustrate interaction with a database.
 
 This application is ideal for individuals learning about Spring Boot, RESTful services, and simple frontend interactions with JavaScript. This is also useful for anyone who would like to implement Devops Practices with this App. 
