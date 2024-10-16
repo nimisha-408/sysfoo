@@ -64,7 +64,7 @@ pipeline {
 
       }
     }
-    stage('Deploy to Dev') {
+    stage('Deploy to Dev stage') {
       when {
       beforeAgent true
       branch 'main'
