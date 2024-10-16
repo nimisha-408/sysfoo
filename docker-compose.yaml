@@ -1,0 +1,5 @@
+services:
+  sysfoo:
+    image: nimisha408/sysfoo:dev
+    ports:
+      - 8888:8080
